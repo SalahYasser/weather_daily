@@ -1,16 +1,60 @@
-# weather_app
+# 🌤️ Weather Daily App
 
-A new Flutter project.
+**Weather Daily** is a modern **weather forecasting application** built with **Flutter** and integrated with real-time APIs.  
+It provides accurate weather updates, location-based forecasts, and a clean, intuitive user interface for multiple weather parameters.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+### 📍 Location-Based Weather
+- Detects user location for instant forecasts
+- Provides real-time weather data
+- Supports searching for weather by city or region
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+---
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 🌦️ Forecast & Weather Parameters
+- Current weather conditions (temperature, humidity, wind speed, etc.)
+- 7-day forecast with daily weather updates
+- Hourly forecast view for detailed tracking
+- Displays sunrise, sunset, and other key metrics
+
+---
+
+### 🎨 UI & Experience
+- Responsive, intuitive design for a smooth user experience
+- Date & time formatting with **Intl package**
+- Dynamic icons and visuals based on weather conditions
+- Loading and error handling states using **Bloc**
+
+---
+
+## 🚀 Technologies Used
+
+- **Flutter** – For building the UI  
+- **Dart** – Programming language  
+- **REST API** – Real-time weather data integration  
+- **Cubit (Bloc Package)** – State management  
+
+---
+
+## 📦 Packages & Their Roles
+
+- **flutter_bloc** – Manages app state (weather loading, success, and error states)  
+- **dio** – Handles HTTP requests and integrates with the weather REST API  
+- **intl** – Formats dates, times, and units for weather data presentation  
+
+---
+
+## 📸 Screenshots
+
+<img width="500" height="637" alt="image" src="https://github.com/user-attachments/assets/d86be0da-3602-4694-8348-609a833570b8" />
+
+<img width="500" height="637" alt="image" src="https://github.com/user-attachments/assets/0b7886c6-2ba4-4adc-9f74-e4765cd55bd8" />
+
+---
+
+## 👨‍💻 Author
+Developed with ❤️ by **Salah Yasser**
+
