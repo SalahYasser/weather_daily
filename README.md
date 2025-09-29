@@ -49,9 +49,25 @@ It provides accurate weather updates, location-based forecasts, and a clean, int
 
 ## 📸 Screenshots
 
-<img width="500" height="637" alt="image" src="https://github.com/user-attachments/assets/d86be0da-3602-4694-8348-609a833570b8" />
+<table> 
+  
+<tr>
 
-<img width="500" height="637" alt="image" src="https://github.com/user-attachments/assets/0b7886c6-2ba4-4adc-9f74-e4765cd55bd8" />
+  <td>
+    <img width="500" height="637" alt="image" src="https://github.com/user-attachments/assets/d86be0da-3602-4694-8348-609a833570b8" />
+  </td>
+  
+  
+  <td> 
+    <img width="500" height="637" alt="image" src="https://github.com/user-attachments/assets/0b7886c6-2ba4-4adc-9f74-e4765cd55bd8" />
+  </td>
+
+
+</tr>
+
+
+</table>
+
 
 ---
 
